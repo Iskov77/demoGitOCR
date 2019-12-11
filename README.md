@@ -1,2 +1,2 @@
 # demoGitOCR
-TestOCR
+TestOCR cool
